@@ -24,7 +24,10 @@ This list contains both free and paid resources, with paid resources being marke
 
 
 ### .NET (CoreCLR) Specific:
+[The .NET 5 Base Class Library (BCL) source browser](https://source.dot.net)
+
 [The CoreCLR Book of the Runtime](https://github.com/dotnet/runtime/tree/master/docs/design/coreclr/botr)
+
 [Konrad Kokosa’s “.NET GC Internals” YouTube series](https://www.youtube.com/playlist?list=PLpUkQYy-K8Y-wYcDgDXKhfs6OT8fFQtVm)
 
 [Konrad Kokosa’s “Pro .NET Memory Management” book](https://prodotnetmemory.com/) (paid)
