@@ -30,4 +30,8 @@ This list contains both free and paid resources, with paid resources being marke
 
 [Konrad Kokosa’s “.NET GC Internals” YouTube series](https://www.youtube.com/playlist?list=PLpUkQYy-K8Y-wYcDgDXKhfs6OT8fFQtVm)
 
+[Maoni Stevens' ".NET Memory Performance Analysis" document](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md)
+
 [Konrad Kokosa’s “Pro .NET Memory Management” book](https://prodotnetmemory.com/) (paid)
+
+
